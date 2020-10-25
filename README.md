@@ -6,7 +6,7 @@
 
  ![GitHub top language](https://img.shields.io/github/languages/top/siemienik/xlsx-import)![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/siemienik/xlsx-import)
 
-## Getting Started
+## Getting Started?
 ### 1. Install the package
 
 ```shell script
